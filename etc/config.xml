@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <lv_donationCents>
+            <general>
+                <enable>0</enable>
+                <institution_segment>
+                    <item1><title>Animal protection</title></item1>
+                    <item2><title>Culture and arts</title></item2>
+                    <item3><title>Children</title></item3>
+                    <item4><title>Civil rights and social actions</title></item4>
+                    <item5><title>Disaster response and humanitarian assistance</title></item5>
+                    <item6><title>Economic empowerment</title></item6>
+                    <item7><title>Education</title></item7>
+                    <item8><title>Environment</title></item8>
+                    <item9><title>Health</title></item9>
+                    <item10><title>Human rights</title></item10>
+                    <item11><title>Policy</title></item11>
+                    <item12><title>Poverty alleviation</title></item12>
+                    <item13><title>Science and technology</title></item13>
+                    <item14><title>Social service</title></item14>
+                    <item15><title>Support for veterans</title></item15>
+                </institution_segment>
+            </general>
+        </lv_donationCents>
+    </default>
+</config>
